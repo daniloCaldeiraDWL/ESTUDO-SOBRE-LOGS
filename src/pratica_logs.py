@@ -1,0 +1,1 @@
+"""Aqui faremos um exemplo prático de um script que utiliza logging. Todo seu processo será mapeado em arquivos de log."""
